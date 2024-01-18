@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ucheegbo
-- 👀 I’m interested in Nodejs
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning .NET Frameworks
 - 💞️ I’m looking to collaborate on building a calculator app
 - 📫 How to reach me: You can reach me on this email: Uchennaegbo55@gmail.com
 
